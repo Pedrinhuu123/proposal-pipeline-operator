@@ -1,11 +1,11 @@
 <!DOCTYPE html> 
 
 <html>
+<head>
+<body>
 
+<h1>Olá</h1>
 
-
-
-
-
-
-<html>
+</body>
+</head>
+</html>
